@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T15:55:15.305Z" agent="5.0 (X11)" etag="rndpmrnP3fg3uAzWQXfp" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T16:11:10.999Z" agent="5.0 (X11)" etag="mJIRlZKcDYy34x8avHzv" version="14.1.8" type="github">
   <diagram id="lDJxzJ-SNwr0Hjrm1M_N" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,13 +196,13 @@
           <mxGeometry x="490" y="2160" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-169" value="Enregistrer la date et la quantité de livraison" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JCRJsU1HNMxGholNaX2s-168">
-          <mxGeometry y="72" width="140" height="168" as="geometry" />
+          <mxGeometry y="72" width="140" height="128" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-170" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;direction=south;" vertex="1" parent="JCRJsU1HNMxGholNaX2s-168">
           <mxGeometry x="15.555555555555555" width="108.88888888888889" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-171" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="JCRJsU1HNMxGholNaX2s-168">
-          <mxGeometry y="208.0032" width="140" height="31.996799999999997" as="geometry" />
+          <mxGeometry y="168.0032" width="140" height="31.996799999999997" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-172" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JCRJsU1HNMxGholNaX2s-171">
           <mxGeometry width="140" height="32" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry width="140" height="32" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-174" value="Données enregistrées" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2440" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="2400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JCRJsU1HNMxGholNaX2s-175" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JCRJsU1HNMxGholNaX2s-169" target="JCRJsU1HNMxGholNaX2s-174">
           <mxGeometry relative="1" as="geometry" />
